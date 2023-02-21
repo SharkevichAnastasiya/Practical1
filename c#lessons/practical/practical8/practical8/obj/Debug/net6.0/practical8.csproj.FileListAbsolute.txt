@@ -1,0 +1,15 @@
+C:\git_brains\c#lessons\practical\practical8\practical8\bin\Debug\net6.0\practical8.exe
+C:\git_brains\c#lessons\practical\practical8\practical8\bin\Debug\net6.0\practical8.deps.json
+C:\git_brains\c#lessons\practical\practical8\practical8\bin\Debug\net6.0\practical8.runtimeconfig.json
+C:\git_brains\c#lessons\practical\practical8\practical8\bin\Debug\net6.0\practical8.dll
+C:\git_brains\c#lessons\practical\practical8\practical8\bin\Debug\net6.0\practical8.pdb
+C:\git_brains\c#lessons\practical\practical8\practical8\obj\Debug\net6.0\practical8.csproj.AssemblyReference.cache
+C:\git_brains\c#lessons\practical\practical8\practical8\obj\Debug\net6.0\practical8.GeneratedMSBuildEditorConfig.editorconfig
+C:\git_brains\c#lessons\practical\practical8\practical8\obj\Debug\net6.0\practical8.AssemblyInfoInputs.cache
+C:\git_brains\c#lessons\practical\practical8\practical8\obj\Debug\net6.0\practical8.AssemblyInfo.cs
+C:\git_brains\c#lessons\practical\practical8\practical8\obj\Debug\net6.0\practical8.csproj.CoreCompileInputs.cache
+C:\git_brains\c#lessons\practical\practical8\practical8\obj\Debug\net6.0\practical8.dll
+C:\git_brains\c#lessons\practical\practical8\practical8\obj\Debug\net6.0\refint\practical8.dll
+C:\git_brains\c#lessons\practical\practical8\practical8\obj\Debug\net6.0\practical8.pdb
+C:\git_brains\c#lessons\practical\practical8\practical8\obj\Debug\net6.0\practical8.genruntimeconfig.cache
+C:\git_brains\c#lessons\practical\practical8\practical8\obj\Debug\net6.0\ref\practical8.dll
